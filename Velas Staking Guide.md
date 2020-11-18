@@ -39,3 +39,5 @@
 
  ``d. **Choose One Active Pool**
 -  Choose a **¨Pool¨**  by using the right-side button, , then pick a green one.
+
+**WORK IN PROGRESS**
