@@ -2,7 +2,7 @@
 layout: page
 title: "Velas Wallet Creation"
 date: 2020-11-20 11:00:00 +0800
-categories: guides android-wallet
+categories: guides velas-wallet
 ---
 
 
