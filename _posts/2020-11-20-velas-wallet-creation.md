@@ -5,75 +5,91 @@ date: 2020-11-20 11:00:00 +0800
 categories: guides android-wallet
 ---
 
-# ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo1xxxhdpi.png?raw=true)  Welcome to Velas Blockchain User Guides
+
+# ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo1xxxhdpi.png?raw=true)  Welcome to Velas Blockchain User Guides :books:
 
 ![enter image description here](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo%20Lettersxxxhdpi.png?raw=true)
 
-## DESKTOP & WEB GUIDE
+## DESKTOP & WEB GUIDE :computer:
 
-# GUIDE TO DELEGATE STAKE IN VELAS WALLET
+# WALLET CREATION GRUIDE
+
 ### INTRODUCTION
 
-- The Velas Network is made up of a set of computers (nodes) distributed throughout the world.
--  Any user who holds 1,000,000 VLX or more can run a node and setup a ¨Pool¨.
-  -  Users who hold 10,000 VLX or more can use ¨Pools¨, to delegate their VLX and generate rewards.
--  Every 6 hours (currently) 19 nodes are chosen based on their reputation. When a node is chosen, it will generate a reward at the end of the epoch and it will be distributed between and all delegates.
-- Nodes and delegates generate rewards based on balance, the distribution of the reward generated in a node is 40% the for pool organizer (as a minimum), and 60% to be distributed among all the delegates based on their balance.
-- The process is done through a smart contract that the user can finish and withdraw their balance whenever they want, totally safe and secure for the User.
+• This manual book contains the steps for creating the wallet at
+https://wallet.velas.com
+• The whole process is done from our own browser or Velas Wallet App, we
+can use any known browser (Chrome / Firefox / Opera / Safari)
+• We must ensure that we are using a computer free of viruses, malware, or
+any other type of software that could put at risk our funds, it is advisable to
+have an antivirus activated and run analyzes periodically if we use this
+equipment daily.
+• Once we have finished configuring the wallet, we will only be able to access
+from the computer itself using the PIN/Password that we have chosen, if in the
+future we wish to access from another computer, we will have to use our 24
+recovery words to access
+• The wallet stores certain information in the browser that we use to allow us
+to access it later only with using a PIN, in case of clearing caches and cookies
+it is very possible that we will be forced to restore the wallet again using our
+24 recovery words
 
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Delegate.png?raw=true)
 
-
-**PREVIOUS REQUIREMENTS**
-    
-
- - The minimum quantity required is **10,000 VLX*
- - You previously must have an account created at **https://wallet.velas.com**
   
-  ## HOW TO JOIN A POOL AND DELEGATE STAKE
-  
-**ACCESS VELAS WALLET**
- - Access [web wallet](https://wallet.velas.com/) or [desktop wallet](https://velas.com/wallets-desktop.html) using our **PIN/Password** to access.
+**LANGUAGE SELECTION**
+ - When the first time we access the web https://wallet.velas.com, the menu
+will automatically appear to choose our language, we select the one we want
+and in this way, we will begin the creation of the wallet
  
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Access%20Wallet.png?raw=true)
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/Language.png?raw=true)
 
     
-**CHOOSE STAKING MENU**.
+**WALLET CREATION**.
     
- - After signing in, move to the left menu and hit on  **¨Staking¨**
+ - **a.** We need to press the ¨Create¨ button to start the creation of our wallet.
 
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Delegate%20Staking.png?raw=true)
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/Create.png?raw=true)
 
-**CHOOSE DELEGATE**.
+**PIN/PASSWORD SELECTION**.
 
- - Choose **¨Delegate¨**, all pools which currently available at that time will be shown.
+ - **b.** After set up the PIN/Password that we created earlier , we need to click
+¨Setup¨ button to enter the next step.
 
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Delegate%20Menu.png?raw=true)
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/PinSetup.png?raw=true)
 
-**CHOOSE ONE ACTIVE POOL**
+**OBTAINING THE RECOVERY PHRASE**
 
--  Choose a **¨Pool¨**  by using the right-side button, , then pick a green one.
+-  **c.** The 24 words shown on the screen are the most important part of the
+process of creating our wallet, anyone with your 24 words of recovery will
+have full access to your account, hit the " button to continue with the
+process.
 
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Active%20pools.png?raw=true)
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/24seed.png?raw=true)
 
- - Avoid red and orange pools.
+**CREATION OF RECOVERY DOCUMENT**
 
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/OrangeRedPools.png?raw=true)
+ - **d.** It is highly recommended to create two copies of the document shown
+below, writing down the 24 words by looking at your screen , a typing error can
+leave us without full access to our wallet . So you need to double check it.
 
-**CHOOSE QUANTITY**
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/Recovery.png?raw=true)
 
- - Choose the amount of VLX that will be delegated to that **¨Pool¨** and click **¨Apply¨**
 
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Applyammount.png?raw=true)
+**CONFIRMATION OF THE RECOVERY PHRASE**
 
-**EXECUTE SMART CONTRACT**
+ - **e.** We need to confirm our recovery phrase by filling in the fields indicated.
+Placing each word in its corresponding position.
 
- - Click send to execute the smart contract
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/SeedConfirmation.png?raw=true)
 
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/ExecuteContract.png?raw=true)
+**TERMS OF SERVICE**
 
-**CHECK YOUR BALANCE**
-
- - To check your balance visit again delegate staking menu and search your pool in the list, you will see your balance on the right side
+ - **f.** Read the terms of service , and then click "Accept "". After that our wallet
+will be shown to us, and from this moment we will be able to start using it.
  
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/CheckAmmount.png?raw=true)
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/Terms.png?raw=true)
+
+**ENJOY VELAS WALLET**
+
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/WalletKeys.png?raw=true)
+
+
