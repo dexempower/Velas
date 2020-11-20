@@ -8,6 +8,6 @@ permalink: /
 
 # Velas Blockchain User Guides - Manuales de usuario
 
--   [Delegate Staking Guide/Guía](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
+-   [Delegate Staking Guide/Guía de Staking](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
 
--   [Velas Android Wallet Setup](https://dexempower.github.io-symblox/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
+-   [Velas Android Wallet Setup/Configuración Wallet Android](https://dexempower.github.io-symblox/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
