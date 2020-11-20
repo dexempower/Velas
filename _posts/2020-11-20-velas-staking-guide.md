@@ -33,25 +33,26 @@ categories: guides delegate-staking
   ### HOW TO JOIN A POOL AND DELEGATE STAKE
 
   
-1. **ACCESS VELAS WALLET**
+**ACCESS VELAS WALLET**
  - Access [web wallet](https://wallet.velas.com/) or [desktop wallet](https://velas.com/wallets-desktop.html) using our **PIN/Password** to access.
  
 ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Access%20Wallet.png?raw=true)
 
     
-2. **CHOOSE STAKING MENU**.
+**CHOOSE STAKING MENU**.
     
  - After signing in, move to the left menu and hit on  **¨Staking¨**
 
 ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Delegate%20Staking.png?raw=true)
 
-3. **CHOOSE DELEGATE**.
+**CHOOSE DELEGATE**.
 
  - Choose **¨Delegate¨**, all pools which currently available at that time will be shown.
 
 ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Delegate%20Menu.png?raw=true)
 
-4. **CHOOSE ONE ACTIVE POOL**
+**CHOOSE ONE ACTIVE POOL**
+
 -  Choose a **¨Pool¨**  by using the right-side button, , then pick a green one.
 
 ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Active%20pools.png?raw=true)
@@ -60,19 +61,19 @@ categories: guides delegate-staking
 
 ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/OrangeRedPools.png?raw=true)
 
-5. **CHOOSE QUANTITY**
+**CHOOSE QUANTITY**
 
  - Choose the amount of VLX that will be delegated to that **¨Pool¨** and click **¨Apply¨**
 
 ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Applyammount.png?raw=true)
 
-6. **EXECUTE SMART CONTRACT**
+**EXECUTE SMART CONTRACT**
 
  - Click send to execute the smart contract
 
 ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/ExecuteContract.png?raw=true)
 
-7. **CHECK YOUR BALANCE**
+**CHECK YOUR BALANCE**
 
  - To check your balance visit again delegate staking menu and search your pool in the list, you will see your balance on the right side
  
