@@ -36,7 +36,7 @@ it is very possible that we will be forced to restore the wallet again using our
 
   
 **LANGUAGE SELECTION**
- - **(a)** When the first time we access the web https://wallet.velas.com, the menu
+ - **a)** When the first time we access the web https://wallet.velas.com, the menu
 will automatically appear to choose our language, we select the one we want
 and in this way, we will begin the creation of the wallet
  
