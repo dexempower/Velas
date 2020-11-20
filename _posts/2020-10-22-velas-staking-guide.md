@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Velas Staking Guide"
-date: 2020-11-29 10:00:00 +0800
+date: 2020-11-20 10:00:00 +0800
 categories: guides delegate-staking
 ---
 
