@@ -20,7 +20,7 @@ permalink: /
 <summary>Manuales en Español</summary>
 <br>
   
--   [Configuración Wallet para Android](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide.md)
+-   [Configuración Wallet para Android](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide)
 
   
 </details>
