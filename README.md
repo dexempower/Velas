@@ -12,4 +12,4 @@ permalink: /
 
 -   [Guía Rápida Symblox en Smartphones](https://dexempower.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
 
--   [Guía de Votación en Symblox desde Dispositivos Móviles](https://dexempower.github.io/guides/voting/2020/11/05/symblox-voting-guide)
+-   [Delegate Staking Guide/Guía](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/_posts/delegate-staking-guide)
