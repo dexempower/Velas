@@ -6,7 +6,7 @@ permalink: /
 
 ![Velas Logo](assets/LogoSize1mdpi.png "Velas Logo")
 
-# Velas Blockchain User Guides - Manuales de usuario de Velas Blockchain
+# Velas Blockchain User Guides - Manuales de usuario
 
 -   [MetaMask Usage Guide for Desktop](https://dexempower.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc)  *WORK IN PROGRESS*
 
