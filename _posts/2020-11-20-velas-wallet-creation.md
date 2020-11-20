@@ -83,7 +83,7 @@ Placing each word in its corresponding position.
 
 **TERMS OF SERVICE**
 
- - **g.** Read the terms of service , and then click "Accept "". After that our wallet
+ - **g)** Read the terms of service , and then click "Accept "". After that our wallet
 will be shown to us, and from this moment we will be able to start using it.
  
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/Terms.png?raw=true)
