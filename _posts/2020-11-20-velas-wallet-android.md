@@ -40,14 +40,14 @@ categories: guides android-wallet
   
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Terminos.jpg?raw=true)
 **Backup Your Seed**
--  :warning:Create a backup of your seed phrase before starting to use the application, 
+-  Create a backup of your seed phrase before starting to use the application, 
 - You will see a message at the bottom to indicate that you have not done it yet.
 
 
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/BACKUP%20SEED.jpg?raw=true)
  
 **Follow the steps**
- -  :warning:Write down your 24 recovery words, make multiple copies and never share it with anyone,
+ -  Write down your 24 recovery words, make multiple copies and never share it with anyone,
  
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/SEED.jpg?raw=true)
  -  If you want to use a simple template that we provide tap next and then tap print.
@@ -79,7 +79,7 @@ categories: guides android-wallet
  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/12%20OR%2024.jpg?raw=true)
 
 **Introduce Your Seed Phrase**
-  - :warning:You will have to enter your seed word-by-word in order.
+  - You will have to enter your seed word-by-word in order.
   
   ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/restoreWORDS.jpg?raw=true)
 
