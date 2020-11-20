@@ -57,7 +57,9 @@ categories: guides android-wallet
  
  
   ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Next.jpg?raw=true)
+  
 **Confirm Your Seed Phrase**
+
   - You will have to enter your seed word-by-word following the order to confirm that you have your seed correctly written.
  
   ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/CONFIRM%20SEED.jpg?raw=true)
