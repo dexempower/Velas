@@ -12,7 +12,7 @@ permalink: /
 <summary>Manuals in English</summary>
 <br>
   
--   [Delegate Staking Guide](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide.md)
+-   [Delegate Staking Guide](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide)
   
 </details>
 
