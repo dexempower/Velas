@@ -9,7 +9,7 @@ permalink: /
 # Velas Blockchain User Guides - Manuales de usuario
 
 <details open>
-<summary>English Manuals</summary>
+<summary>Manuals in English</summary>
 <br>
   
 -   [Delegate Staking Guide](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
