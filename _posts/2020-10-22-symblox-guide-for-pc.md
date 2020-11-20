@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Symblox Guide for PC"
+title: "Velas Staking Guide"
 date: 2020-10-22 15:10:00 +0800
 categories: guides yield-farming
 ---
