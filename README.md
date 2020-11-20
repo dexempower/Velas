@@ -26,7 +26,7 @@ permalink: /
 -   [Delegate Staking](https://twitter.com/i/status/1298189126215151616)
 
 
-![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/GithubMarkxxxhdpi.png?raw=true) [Development GitHub](https://github.com/velas) | ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png?raw=true) [Telegram](https://t.me/velascommunity) | ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/GithubMarkxxxhdpi.png?raw=true) [Twitter](https://twitter.com/VelasBlockchain)  |  [YouTube](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
+![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/GithubMarkxxxhdpi.png?raw=true) [Development GitHub](https://github.com/velas) | ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png?raw=true) [Telegram](https://t.me/velascommunity) | ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TwitterLogoxxxhdpi.png?raw=true) [Twitter](https://twitter.com/VelasBlockchain)  |  [YouTube](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
 
 
 
