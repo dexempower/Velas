@@ -6,21 +6,7 @@ permalink: /
 
 ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLettersmdpi.png?raw=true)
 
-# Velas Blockchain User Guides - Manuales de usuario
+# Velas Blockchain User Guides
 
-<details open>
-<summary>Manuals in English</summary>
-<br>
-  
 -   [Delegate Staking Guide](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide)
-  
-</details>
-
-<details open>
-<summary>Manuales en Español</summary>
-<br>
-  
--   [Configuración Wallet para Android](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide)
-
-  
-</details>
+-   [Velas Android Wallet](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide)
