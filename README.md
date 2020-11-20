@@ -15,6 +15,12 @@ permalink: /
 
 -   [Video-Tutorials Compilation](https://www.youtube.com/playlist?list=PLu7mShzkC4iVA9nkfV_LJxePcxrtQIiOK)
 
+- [x] How to setup New Velas Web Wallet Tutorial
+- [x] How to Pool Stake with Velas Web Wallet 2.0
+- [x] Velas Wallet - Settings - Overview
+- [x] Velas Wallet - Seed Phrase Recovery - Tutorial
+- [x] Velas Wallet - Android Setup
+
 ## Short Videos Guides
 
 -   [Wallet Creation](https://twitter.com/i/status/1298186350001233920)
