@@ -30,8 +30,7 @@ categories: guides delegate-staking
  - The minimum quantity required is **10,000 VLX*
  - You previously must have an account created at **https://wallet.velas.com**
   
-  ### HOW TO JOIN A POOL AND DELEGATE STAKE
-
+  ## HOW TO JOIN A POOL AND DELEGATE STAKE
   
 **ACCESS VELAS WALLET**
  - Access [web wallet](https://wallet.velas.com/) or [desktop wallet](https://velas.com/wallets-desktop.html) using our **PIN/Password** to access.
