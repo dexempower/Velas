@@ -5,109 +5,75 @@ date: 2020-10-22 15:10:00 +0800
 categories: guides yield-farming
 ---
 
-<img src="/assets/SymbloxLogoName.png" align="center" style="height: 64px"/>
+# ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo1xxxhdpi.png?raw=true)  Welcome to Velas Blockchain User Guides :books:
 
-# Symblox Guide for PC
+![enter image description here](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo%20Lettersxxxhdpi.png?raw=true)```
 
-**Friendly reminder:**
+## DESKTOP & WEB GUIDE :computer:
 
-1. It is recommended that users use Velas DeFi Wallet, which also supports Ethereum addresses. MetaMask wallet does not currently support Velas addresses.
-2. The MetaMask wallet does not currently support Android operating system, and Velas DeFi wallet does not currently support desktop version.
-3. The UX for mobile version is similar between MetaMask and Velas Defi Wallet, however, the PC guide is strictly for MetaMask.
+# GUIDE TO DELEGATE STAKE IN VELAS WALLET
+### INTRODUCTION
 
----
+- The Velas Network is made up of a set of computers (nodes) distributed throughout the world.
+-  Any user who holds 1,000,000 VLX or more can run a node and setup a ¨Pool¨.
+  -  Users who hold 10,000 VLX or more can use ¨Pools¨, to delegate their VLX and generate rewards.
+-  Every 6 hours (currently) 19 nodes are chosen based on their reputation. When a node is chosen, it will generate a reward at the end of the epoch and it will be distributed between and all delegates.
+- Nodes and delegates generate rewards based on balance, the distribution of the reward generated in a node is 40% the for pool organizer (as a minimum), and 60% to be distributed among all the delegates based on their balance.
+- The process is done through a smart contract that the user can finish and withdraw their balance whenever they want, totally safe and secure for the User.
 
-## Download/Installation Tutorial
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Delegate.png?raw=true)
 
-**Step 1:** Open https://metamask.io/ in Google or Firefox browser (here Google Chrome is used for demonstration), click download, select the operating system, or directly enter Metamask wallet in Google "Apps" download.
 
-<img src="/assets/MetaMask_1.png" align="center" style="width: 600px"/>
+**PREVIOUS REQUIREMENTS**
+    
 
-**Step 2:** Add MetaMask wallet to Google Chrome, click "Add to Chrome".
+ - The minimum quantity required is **10,000 VLX*
+ - You previously must have an account created at **https://wallet.velas.com**
+  
+  ### HOW TO JOIN A POOL AND DELEGATE STAKE
 
-<img src="/assets/AddExtension_1.png" align="center" style="width: 600px"/>
+  
+1. **ACCESS VELAS WALLET**
+ - Access [web wallet](https://wallet.velas.com/) or [desktop wallet](https://velas.com/wallets-desktop.html) using our **PIN/Password** to access.
+ 
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Access%20Wallet.png?raw=true)
 
-Click 'Add Extension'.  
-<img src="/assets/AddMetamask_1.png" align="center" style="width: 600px"/>
+    
+2. **CHOOSE STAKING MENU**.
+    
+ - After signing in, move to the left menu and hit on  **¨Staking¨**
 
-Click 'Get Started' to finish.  
-<img src="/assets/GettingStarted.png" align="center" style="width: 600px"/>
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Delegate%20Staking.png?raw=true)
 
-**Step 3:** Import or create a wallet. If you are a new MetaMask wallet user, you can create a new wallet. If you already have a MetaMask wallet, you can directly import the wallet address. The process is as follows:
+3. **CHOOSE DELEGATE**.
 
-<img src="/assets/AddMetamask_2.png" align="center" style="width: 600px"/>
+ - Choose **¨Delegate¨**, all pools which currently available at that time will be shown.
 
-**For New Users:** Click on “I agree” on the “Help Us Improve MetaMask” page.
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Delegate%20Menu.png?raw=true)
 
-<img src="/assets/AddMetamask_3.png" align="center" style="width: 600px"/>
+4. **CHOOSE ONE ACTIVE POOL**
+-  Choose a **¨Pool¨**  by using the right-side button, , then pick a green one.
 
-Set up a password (minimum 8 characters), then click on “I have read and agree to the Terms of Use, then click “Create”.
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Active%20pools.png?raw=true)
 
-<img src="/assets/Asset 5CreatePassword.png" align="center" style="width: 600px"/>
+ - Avoid red and orange pools.
 
-You will need to confirm your secret backup phrase in order to activate the wallet.
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/OrangeRedPools.png?raw=true)
 
-<img src="/assets/Asset 6_BackupPassword_1.png" align="center" style="width: 600px"/>
+5. **CHOOSE QUANTITY**
 
-Type in your backup phrase to verify.
+ - Choose the amount of VLX that will be delegated to that **¨Pool¨** and click **¨Apply¨**
 
-<img src="/assets/Asset 7_ConfirmPassword_1.png" align="center" style="width: 600px"/>
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/Applyammount.png?raw=true)
 
-Click 'All Done' to finish.
+6. **EXECUTE SMART CONTRACT**
 
-<img src="/assets/Asset 8_Congrats_1.png" align="center" style="width: 600px"/>
+ - Click send to execute the smart contract
 
----
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/ExecuteContract.png?raw=true)
 
-# Adding Velas Network to Metamask
+7. **CHECK YOUR BALANCE**
 
-**Step 1:** Open the official Symblox website: https://symblox.io/ then click on “Launch DAPP”.
-
-<img src="/assets/Asset 9_LaunchDapp_1.png" align="center" style="width: 600px"/>
-
-**Step 2:** Click “Connect wallet” on the upper right-hand corner, then select “MetaMask” and click “Next”.
-
-<img src="/assets/Asset 10_ConnectWallet_1.png" align="center" style="width: 600px"/>
-
-After connecting, click on the fox icon in the upper right-hand corner. The default network is “Main Ethereum Network”, click on the drop-down list and choose “Custom RPC”.
-
-<img src="/assets/Asset 11_AddNetwork_1.png" align="center" style="width: 600px"/>
-
-Input the following settings for Velas Mainnet.
-
-| Settings                      | Value                          |
-| ----------------------------- | ------------------------------ |
-| Network Name                  | Velas                          |
-| New RPC URL                   | https://explorer.velas.com/rpc |
-| ChainID                       | 106                            |
-| Symbol                        | VLX                            |
-| Block Explorer URL (optional) | https://explorer.velas.com     |
-
-<img src="/assets/Asset 12_AddNetwork_2.png" align="center" style="width: 600px"/>
-
----
-
-> **Note:** Metamask currently does not support Velas address formatting. This means that when you transfer your VLX from an exchange to your wallet, you will get 'Invalid Format'.
-
-# Converting Ethereum 0x to Velas address formatting
-
-## Access Velas Web Wallet
-
-Go to Velas Official website https://velas.com/ to learn more about setting up Velas Web Wallet.
-
-If you already have an account or want to create a new account you can go directly to to Velas Web Wallet at https://wallet.velas.com/
-
-> **Note:** You will not be using Velas Web Wallet to connect to Symblox dApp. You only need to access Velas Web Wallet to use it's address conversion utility.
-
-Go to https://wallet.velas.com/ login screen. Type your password and click 'Enter'  
-If you don't have an account, click 'New Account' and follow the instructions.
-
-<img src="/assets/VelasLogin.PNG" align="center" style="width: 600px"/>
-
-From the left menu, click the 'Search' tab. On the right column, scroll down the list and click on 'Convert VLX2ETH'.
-
-<img src="/assets/VelasSearch.png" align="center" style="width: 600px"/>
-
-Paste your Ethereum address in the bottom field. It will automatically convert to VLX address formatting in the top field and vice versa.
-
-<img src="/assets/VelasConvert.png" align="center" style="width: 600px"/>
+ - To check your balance visit again delegate staking menu and search your pool in the list, you will see your balance on the right side
+ 
+![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/staking/CheckAmmount.png?raw=true)
