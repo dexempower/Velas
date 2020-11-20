@@ -26,4 +26,6 @@ permalink: /
 -   [Delegate Staking](https://twitter.com/i/status/1298189126215151616)
 
 
-[Development GitHub](https://github.com/velas) | [Telegram](https://t.me/velascommunity) | [Twitter](https://twitter.com/VelasBlockchain)  |  [YouTube](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
+![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/GithubMarkxxxhdpi.png?raw=true) [Development GitHub](https://github.com/velas) | [Telegram](https://t.me/velascommunity) | [Twitter](https://twitter.com/VelasBlockchain)  |  [YouTube](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
+
+
