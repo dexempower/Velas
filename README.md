@@ -26,4 +26,4 @@ permalink: /
 -   [Delegate Staking](https://twitter.com/i/status/1298189126215151616)
 
 
-[Telegram](https://t.me/velascommunity) | [Twitter](https://twitter.com/VelasBlockchain)  |  [YouTube](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ) |  [Development GitHub](https://github.com/velas)
+[Development GitHub](https://github.com/velas) | [Telegram](https://t.me/velascommunity) | [Twitter](https://twitter.com/VelasBlockchain)  |  [YouTube](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
