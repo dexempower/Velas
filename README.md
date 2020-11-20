@@ -4,7 +4,7 @@ title: "Symblox User's Guides"
 permalink: /
 ---
 
-![Velas Logo](assets/SLogoSize1mdpi.png "Velas Logo")
+![Velas Logo](assets/LogoSize1mdpi.png "Velas Logo")
 
 # Velas Blockchain User Guides - Manuales de usuario de Velas Blockchain
 
