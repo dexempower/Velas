@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Symblox User's Guides"
+title: "Velas User´s Guides"
 permalink: /
 ---
 
