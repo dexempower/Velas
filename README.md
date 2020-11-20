@@ -14,6 +14,7 @@ permalink: /
   
 -   [Delegate Staking Guide](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
 -   [Velas Android Wallet Setup](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
+-   <a href="https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide">Delegate Staking Guide</a>
 
   
 </details>
