@@ -16,19 +16,19 @@ categories: guides velas-wallet
 
 ### INTRODUCTION
 
-• This manual book contains the steps for creating the wallet at
+-  This manual book contains the steps for creating the wallet at
 https://wallet.velas.com
-• The whole process is done from our own browser or Velas Wallet App, we
+The whole process is done from our own browser or Velas Wallet App, we
 can use any known browser (Chrome / Firefox / Opera / Safari)
-• We must ensure that we are using a computer free of viruses, malware, or
+-  We must ensure that we are using a computer free of viruses, malware, or
 any other type of software that could put at risk our funds, it is advisable to
 have an antivirus activated and run analyzes periodically if we use this
 equipment daily.
-• Once we have finished configuring the wallet, we will only be able to access
+-  Once we have finished configuring the wallet, we will only be able to access
 from the computer itself using the PIN/Password that we have chosen, if in the
 future we wish to access from another computer, we will have to use our 24
 recovery words to access
-• The wallet stores certain information in the browser that we use to allow us
+-  The wallet stores certain information in the browser that we use to allow us
 to access it later only with using a PIN, in case of clearing caches and cookies
 it is very possible that we will be forced to restore the wallet again using our
 24 recovery words
