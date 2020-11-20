@@ -10,4 +10,4 @@ permalink: /
 
 -   [Delegate Staking Guide/Guía](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
 
--   [Guía Rápida Symblox en Smartphones](https://dexempower.github.io-symblox/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
+-   [Velas Android Wallet Setup](https://dexempower.github.io-symblox/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
