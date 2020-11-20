@@ -12,16 +12,17 @@ permalink: /
 <summary>English Manuals</summary>
 <br>
   
-[Delegate Staking Guide](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
+-   [Delegate Staking Guide](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
+-   [Velas Android Wallet Setup](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
 
   
 </details>
 
 <details open>
-<summary>English Manuals</summary>
+<summary>Manuales en Español</summary>
 <br>
   
--   [Velas Android Wallet Setup](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
+-   [Configuración Wallet para Android](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
 
   
 </details>
