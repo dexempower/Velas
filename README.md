@@ -4,9 +4,9 @@ title: "Symblox User's Guides"
 permalink: /
 ---
 
-![Symblox Logo](assets/SymbloxLogoName.png "Symblox Logo")
+![Velas Logo](assets/SLogoSize1mdpi.png "Velas Logo")
 
-# Symblox - Manuales de usuario
+# Velas Blockchain User Guides - Manuales de usuario de Velas Blockchain
 
 -   [MetaMask Usage Guide for Desktop](https://dexempower.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc)  *WORK IN PROGRESS*
 
