@@ -4,7 +4,7 @@ title: "Velas User´s Guides"
 permalink: /
 ---
 
-![https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLettersmdpi.png?raw=true)
+![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLettersmdpi.png?raw=true)
 
 # Velas Blockchain User Guides - Manuales de usuario
 
