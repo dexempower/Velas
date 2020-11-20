@@ -2,7 +2,7 @@
 layout: page
 title: "Velas Staking Guide"
 date: 2020-10-22 15:10:00 +0800
-categories: guides yield-farming
+categories: guides delegate-staking
 ---
 
 # ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo1xxxhdpi.png?raw=true)  Welcome to Velas Blockchain User Guides :books:
