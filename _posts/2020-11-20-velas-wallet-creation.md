@@ -45,20 +45,20 @@ and in this way, we will begin the creation of the wallet
     
 **WALLET CREATION**.
     
- - **b.** We need to press the ¨Create¨ button to start the creation of our wallet.
+ - **b)** We need to press the ¨Create¨ button to start the creation of our wallet.
 
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/Create.png?raw=true)
 
 **PIN/PASSWORD SELECTION**.
 
- - **c.** After set up the PIN/Password that we created earlier , we need to click
+ - **c)** After set up the PIN/Password that we created earlier , we need to click
 ¨Setup¨ button to enter the next step.
 
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/PinSetup.png?raw=true)
 
 **OBTAINING THE RECOVERY PHRASE**
 
--  **d.** The 24 words shown on the screen are the most important part of the
+-  **d)** The 24 words shown on the screen are the most important part of the
 process of creating our wallet, anyone with your 24 words of recovery will
 have full access to your account, hit the " button to continue with the
 process.
@@ -67,7 +67,7 @@ process.
 
 **CREATION OF RECOVERY DOCUMENT**
 
- - **e.** It is highly recommended to create two copies of the document shown
+ - **e)** It is highly recommended to create two copies of the document shown
 below, writing down the 24 words by looking at your screen , a typing error can
 leave us without full access to our wallet . So you need to double check it.
 
@@ -76,7 +76,7 @@ leave us without full access to our wallet . So you need to double check it.
 
 **CONFIRMATION OF THE RECOVERY PHRASE**
 
- - **f.** We need to confirm our recovery phrase by filling in the fields indicated.
+ - **f)** We need to confirm our recovery phrase by filling in the fields indicated.
 Placing each word in its corresponding position.
 
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/SeedConfirmation.png?raw=true)
