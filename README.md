@@ -9,4 +9,4 @@ permalink: /
 # Velas Blockchain User Guides
 
 -   [Delegate Staking Guide](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide)
--   [Velas Android Wallet](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide)
+-   [Velas Wallet Android Setup](https://github.com/dexempower/dexempower.github.io-velas/blob/main/_posts/2020-11-20-velas-staking-guide)
