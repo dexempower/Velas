@@ -1,10 +1,3 @@
----
-layout: page
-title: "Velas Staking Guide"
-date: 2020-11-20 17:00:00 +0800
-categories: guides velas
----
-
 # ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo1xxxhdpi.png?raw=true)  Welcome to Velas Blockchain User Guides :books:
 
 ![enter image description here](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo%20Lettersxxxhdpi.png?raw=true)
