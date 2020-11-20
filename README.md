@@ -11,10 +11,9 @@ permalink: /
 <details open>
 <summary>Manuals in English</summary>
 <br>
-  
--   [Delegate Staking Guide](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
--   [Velas Android Wallet Setup](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
--   <a href="https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide">Delegate Staking Guide</a>
+
+<a href="https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide">Android Velas Wallet</a>
+<a href="https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide">Delegate Staking Guide</a>
 
   
 </details>
