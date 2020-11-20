@@ -9,7 +9,7 @@ categories: guides delegate-staking
 
 ![enter image description here](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo%20Lettersxxxhdpi.png?raw=true)
 
-## DESKTOP & WEB GUIDE <span style='font-size:100px;'>&#128187;
+## DESKTOP & WEB GUIDE <p style="font-size:100px">&#128187;</p>
 
 # GUIDE TO DELEGATE STAKE IN VELAS WALLET
 ### INTRODUCTION
