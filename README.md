@@ -8,7 +8,7 @@ permalink: /
 
 # Velas Blockchain User Guides - Manuales de usuario
 
--   [MetaMask Usage Guide for Desktop](https://dexempower.github.io-symblox/guides/yield-farming/2020/10/22/symblox-guide-for-pc)  *WORK IN PROGRESS*
+-   [MetaMask Usage Guide for Desktop]((https://dexempower.github.io/dexempower.github.io-velas/guides/yield-farming/2020/10/22/symblox-guide-for-pc)  *WORK IN PROGRESS*
 
 -   [Guía Rápida Symblox en Smartphones](https://dexempower.github.io-symblox/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
 
