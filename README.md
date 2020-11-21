@@ -29,5 +29,5 @@ permalink: /
 
 ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/GithubMarkxxxhdpi.png?raw=true) [Development GitHub](https://github.com/velas) | ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png?raw=true) [Telegram](https://t.me/velascommunity) | ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Twiterxxxhdpi.png?raw=true) [Twitter](https://twitter.com/VelasBlockchain)  |  ![alt text](assets/logos/Youtubexxxhdpi.png?raw=true) [YouTube](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
 
-[![Foo](assets/logos/TelegramLogoxxxhdpi.png)](https://t.me/velascommunity)
+[![](assets/logos/TelegramLogoxxxhdpi.png)](https://t.me/velascommunity)&nbsp; &nbsp; &nbsp; [![](assets/logos/Twiterxxxhdpi.png)](https://twitter.com/VelasBlockchain)&nbsp; &nbsp; &nbsp;  [![](assets/logos/Youtubexxxhdpi.png)](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
 
