@@ -29,8 +29,6 @@ permalink: /
 
 ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/GithubMarkxxxhdpi.png?raw=true) [Development GitHub](https://github.com/velas) | ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png?raw=true) [Telegram](https://t.me/velascommunity) | ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Twiterxxxhdpi.png?raw=true) [Twitter](https://twitter.com/VelasBlockchain)  |  ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Youtubexxxhdpi.png?raw=true) [YouTube](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
 
-<a href="https://t.me/velascommunity/" rel="Telegram">![Foo](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png)</a>
-
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png"
      alt="Telegram"
      style="float: left; margin-right: 10px;" />
