@@ -31,5 +31,9 @@ permalink: /
 
 <a href="https://t.me/velascommunity/" rel="Telegram">![Foo](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png)</a>
 
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png"
+     alt="Telegram"
+     style="float: left; margin-right: 10px;" />
+
 
 
