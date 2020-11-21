@@ -31,3 +31,7 @@ permalink: /
 
 [![Foo](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png)](https://google.es)
 
+[<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/TelegramLogoxxxhdpi.png">](http://google.com.au/)
+
+
+
