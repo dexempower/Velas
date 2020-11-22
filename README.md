@@ -6,7 +6,7 @@ permalink: /
 
 ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLettersmdpi.png?raw=true)
 
-# Velas Blockchain User Guides ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Booksxxxhdpi.png?raw=true)
+# Velas Blockchain User Guides ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/UserGuides.png?raw=true)
 
 -   [Velas Wallet Creation](https://dexempower.github.io/dexempower.github.io-velas/guides/velas-wallet/2020/11/20/velas-wallet-creation)
 -   [Delegate Staking Guide](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
