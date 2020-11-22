@@ -26,5 +26,5 @@ permalink: /
 -   [Wallet Restoration](https://twitter.com/i/status/1298186601881669632)
 -   [Delegate Staking](https://twitter.com/i/status/1298189126215151616)
 
-[![](assets/logos/TelegramLogoxxxhdpi.png)](https://t.me/velascommunity)&nbsp; &nbsp; &nbsp; [![](assets/logos/Twiterxxxhdpi.png)](https://twitter.com/VelasBlockchain)&nbsp; &nbsp; &nbsp;  [![](assets/logos/Youtubexxxhdpi.png)](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
+[![](assets/logos/TelegramLogoNew.png)](https://t.me/velascommunity)&nbsp; &nbsp; &nbsp; [![](assets/logos/Twiterxxxhdpi.png)](https://twitter.com/VelasBlockchain)&nbsp; &nbsp; &nbsp;  [![](assets/logos/Youtubexxxhdpi.png)](https://www.youtube.com/channel/UCZQNv-bdPKppg6akwWggmyQ)
 
