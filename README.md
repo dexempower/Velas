@@ -1,4 +1,4 @@
-[![](assets/logos/Ukflag.png)](https://dexempower.github.io/dexempower.github.io-velas/)&nbsp; &nbsp; &nbsp; [![](assets/logos/Spainflag.png)](https://dexempower.github.io/dexempower.github.io-velas/)
+[![](assets/logos/Ukflag.png)](https://dexempower.github.io-velas/)&nbsp; &nbsp; &nbsp; [![](assets/logos/Spainflag.png)](https://dexempower.github.io/dexempower.github.io-velas/)
 
 ![alt text](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLettersmdpi.png?raw=true)
 
