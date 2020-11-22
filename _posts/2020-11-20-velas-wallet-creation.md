@@ -68,7 +68,7 @@ process.
 **CREATION OF RECOVERY DOCUMENT**
 
  - **e)** It is highly recommended to create two copies of the document shown
-below, writing down the 24 words by looking at your screen , a typing error can
+below, writing down the 24 words by looking at your screen, a typing error can
 leave us without full access to our wallet . So you need to double check it.
 
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/creation/Recovery.png?raw=true)
