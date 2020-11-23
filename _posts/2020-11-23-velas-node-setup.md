@@ -63,7 +63,7 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 ### MINIMUM  REQUIREMENTS FOR VPS/DEDICATED SERVER
 
-<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Hardware.png?raw=true" width="80">
+&nbsp; <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Hardware.png?raw=true" width="80">
 
 - Linux (Ubuntu LTS/Debian/Centos)
 - 10 or 8 Cores CPU (Xeon E5 2630-e3, Xeon E5 2630-e4, Xeon 4114, or AMD EPYC 7282)
