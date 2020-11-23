@@ -12,7 +12,7 @@ categories: guides velas-wallet
 
 ## DESKTOP & WEB GUIDE
 
-# WALLET CREATION GRUIDE
+# WALLET CREATION GUIDE
 
 ### INTRODUCTION
 
