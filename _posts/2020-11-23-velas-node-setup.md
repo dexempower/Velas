@@ -71,3 +71,11 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 - 250 GB Disk Space
 - Unlimited traffic
 - 1 Gb Ethernet port
+
+## VELAS WALLET - GENERATING AND COPYING THE SCRIPT
+**a)** Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Pin.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Node.png?raw=true">
+
+
+
