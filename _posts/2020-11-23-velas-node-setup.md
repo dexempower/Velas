@@ -78,4 +78,6 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Pin.png?raw=true"  width="700"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeMenu.png?raw=true">
 
 
+# WORK IN PROGRESS
+
 
