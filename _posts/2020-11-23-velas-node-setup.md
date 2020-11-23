@@ -54,7 +54,7 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 ### PREREQUISITES
 
-&nbsp; &nbsp; &nbsp; <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/TaskManager.png?raw=true" width="100">
+&nbsp; &nbsp; <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/TaskManager.png?raw=true" width="100">
 
 - 1,000,000 VLX or more.
 - Basic Linux knowledge.
