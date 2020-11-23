@@ -60,7 +60,14 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 - Basic Linux knowledge.
 - VPS/ Dedicated server configuration knowledge.
 - Predisposition to keep the node and its runtime environment always up to date and running.
-  
 
+### MINIMUM  REQUIREMENTS FOR VPS/DEDICATED SERVER
 
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Hardware.png?raw=true" width="200">
 
+- Linux (Ubuntu LTS/Debian/Centos)
+- 10 or 8 Cores CPU (Xeon E5 2630-e3, Xeon E5 2630-e4, Xeon 4114, or AMD EPYC 7282)
+- 16 GB RAM
+- 250 GB Disk Space
+- Unlimited traffic
+- 1 Gb Ethernet port
