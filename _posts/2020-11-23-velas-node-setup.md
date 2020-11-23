@@ -61,34 +61,6 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 - VPS/ Dedicated server configuration knowledge.
 - Predisposition to keep the node and its runtime environment always up to date and running.
   
-**Confirm Your Seed Phrase**
 
-  - You will have to enter your seed word-by-word following the order to confirm that you have your seed correctly written.
- 
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/CONFIRM%20SEED.jpg?raw=true)
-  
-**Start Using Velas Wallet!**
 
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/WALLET%20MAIN%20MENU.jpg?raw=true)
-
-### RESTORING YOUR WALLET
-
-**Restore Your Velas Wallet**
- - Choose restore from menu.
- 
- ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Restore.jpg?raw=true)
-
-**Choose 12 or 24 words**
- - Choose whether you want to restore 12 or 24 seed word wallet.
- 
- ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/12%20OR%2024.jpg?raw=true)
-
-**Introduce Your Seed Phrase**
-  - You will have to enter your seed word-by-word in order.
-  
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/restoreWORDS.jpg?raw=true)
-
-**Start Using Velas Wallet!**
-
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Wallet%20MAin%202.jpg?raw=true)
 
