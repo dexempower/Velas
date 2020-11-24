@@ -216,7 +216,7 @@ You can close WinSCP, we are done with this program.
 - **Port 30304 should be visible from the outside**
 - **Our node must be completely synchronized with the blockchain**
 
-## <STEP 3> VELAS WALLET – APPLYING TO BE CANDIDATEVELAS WALLET - GENERATING AND COPYING THE SCRIPT
+## <STEP 3> VELAS WALLET – APPLYING TO BE CANDIDATE
 
 - Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
 
@@ -232,65 +232,5 @@ To finish, press ¨Apply¨ and execute the smart contract.
 - If you have followed all the steps after the epoch changes your node will appear as **ACTIVE** in ¨Node¨ menu and you will be able to see your pool in the list.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeActive.png?raw=true">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# WORK IN PROGRESS
 
 
