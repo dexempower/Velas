@@ -82,6 +82,13 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Generate.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CopyButton.png?raw=true">
 
 
+## RUNNING THE SCRIPT ON A DEDICATED SERVER OR VPS
+
+**c)** The next step is to paste the script generated in the wallet in our Linux VPS/Dedicated Server already preconfigured. There are different ways to do this, also depending on what operating system you use.
+
+# [METHOD 1] FROM WINDOWS 10 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Windowslogo.png?raw=true"> USING A GRAPHICAL ENVIRONMENT – WinSCP + PuTTY
+
+
 
 
 
