@@ -96,10 +96,18 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 **CONNECT USING WINSCP AND CREATE THE SCRIPT FILE**
 
-- Connect with your VPS/Dedicated server using WinSCP <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/WINSCP.png?raw=true" width="80">
-- Website https://winscp.net/
+- Connect with your VPS/Dedicated server using [WinSCP](https://winscp.net/) <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/WINSCP.png?raw=true" width="80">
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/WINSCPSETUP.png?raw=true">
+
+>File protocol: SFTP
+>
+>Host name: Your VPS/Dedicated server IP
+Port number: 22
+>
+>User name: Your VPS/Dedicated server username
+>
+>Password: Your VPS/Dedicated server password
 
 
 
