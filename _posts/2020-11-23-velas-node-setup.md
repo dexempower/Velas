@@ -86,7 +86,14 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 **c)** The next step is to paste the script generated in the wallet in our Linux VPS/Dedicated Server already preconfigured. There are different ways to do this, also depending on what operating system you use.
 
-# [METHOD 1] FROM <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Windowslogo.png?raw=true" width="30"> WINDOWS 10 USING A GRAPHICAL ENVIRONMENT – WinSCP + PuTTY
+### [METHOD 1] FROM <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Windowslogo.png?raw=true" width="20"> WINDOWS 10 USING A GRAPHICAL ENVIRONMENT – WinSCP + PuTTY
+
+**CHECK YOUR VPS/DEDICATED SERVER PUBLIC IP**
+
+- From your VPS/Dedicated server control panel, check your public IP to login in your machine, in my case is 185.247.117.38, also look at your username, and your password, you will need it next.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPS1.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPS2.png?raw=true">
+
 
 
 
