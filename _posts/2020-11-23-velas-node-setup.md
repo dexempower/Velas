@@ -175,7 +175,7 @@ You can close WinSCP, we are done with this program.
 
 - You will see the command line of your server:
 
-<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/SShloged.png?raw=true">
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/SSHloged.png?raw=true">
 
 **CREATE NODE SCRIPT**
 
