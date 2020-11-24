@@ -73,18 +73,18 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 - 1 Gb Ethernet port
 
 ## <STEP 1> VELAS WALLET - GENERATING AND COPYING THE SCRIPT
-**a)** Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
+- Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Pin.png?raw=true"  width="700"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeMenu.png?raw=true">
 
-**b)** From this menu, pressing ¨Generate¨ will show the script that we will have to run 24/7 on our local, VPS, or dedicated server, copy the script to your clipboard.
+- From this menu, pressing ¨Generate¨ will show the script that we will have to run 24/7 on our local, VPS, or dedicated server, copy the script to your clipboard.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Generate.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CopyButton.png?raw=true">
 
 
 ## <STEP 2> RUNNING THE SCRIPT ON A DEDICATED SERVER OR VPS
 
-**c)** The next step is to paste the script generated in the wallet in our Linux VPS/Dedicated Server already preconfigured. There are different ways to do this, also depending on what operating system you use.
+- The next step is to paste the script generated in the wallet in our Linux VPS/Dedicated Server already preconfigured. There are different ways to do this, also depending on what operating system you use.
 
 ### [METHOD 1] FROM <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Windowslogo.png?raw=true" width="20"> WINDOWS 10 USING A GRAPHICAL ENVIRONMENT – WinSCP + PuTTY
 
