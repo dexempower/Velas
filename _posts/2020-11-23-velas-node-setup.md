@@ -72,7 +72,7 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 - Unlimited traffic
 - 1 Gb Ethernet port
 
-## VELAS WALLET - GENERATING AND COPYING THE SCRIPT
+## <STEP 1<STEP 2> RUNNING THE SCRIPT ON A DEDICATED SERVER OR VPS> VELAS WALLET - GENERATING AND COPYING THE SCRIPT
 **a)** Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Pin.png?raw=true"  width="700"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeMenu.png?raw=true">
@@ -82,7 +82,7 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Generate.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CopyButton.png?raw=true">
 
 
-## RUNNING THE SCRIPT ON A DEDICATED SERVER OR VPS
+## <STEP 2> RUNNING THE SCRIPT ON A DEDICATED SERVER OR VPS
 
 **c)** The next step is to paste the script generated in the wallet in our Linux VPS/Dedicated Server already preconfigured. There are different ways to do this, also depending on what operating system you use.
 
@@ -215,6 +215,26 @@ You can close WinSCP, we are done with this program.
 - **The system clock must be synced**
 - **Port 30304 should be visible from the outside**
 - **Our node must be completely synchronized with the blockchain**
+
+## <STEP 3> VELAS WALLET – APPLYING TO BE CANDIDATEVELAS WALLET - GENERATING AND COPYING THE SCRIPT
+
+- Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Pin.png?raw=true"  width="700"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeMenu.png?raw=true">
+
+- Scroll to the bottom of the ¨Node¨ menu and choose how much balance you want to assign to the node/pool as an organizer, remember that it must be at least 1,000,000 VLX
+To finish, press ¨Apply¨ and execute the smart contract.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeBalance.png?raw=true">
+
+- **Wait for epoch change and check the node status again**
+
+- If you have followed all the steps after the epoch changes your node will appear as **ACTIVE** in ¨Node¨ menu and you will be able to see your pool in the list.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeActive.png?raw=true">
+
+
+
 
 
 
