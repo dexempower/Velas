@@ -72,7 +72,7 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 - Unlimited traffic
 - 1 Gb Ethernet port
 
-## <STEP 1> RUNNING THE SCRIPT ON A DEDICATED SERVER OR VPS> VELAS WALLET - GENERATING AND COPYING THE SCRIPT
+## <STEP 1> VELAS WALLET - GENERATING AND COPYING THE SCRIPT
 **a)** Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Pin.png?raw=true"  width="700"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeMenu.png?raw=true">
