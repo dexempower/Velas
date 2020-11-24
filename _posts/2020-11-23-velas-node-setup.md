@@ -110,6 +110,11 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 >
 >Password: Your VPS/Dedicated server password
 
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/LocalRemote.png?raw=true">
+
+
+
+
 
 
 
