@@ -179,6 +179,26 @@ You can close WinSCP, we are done with this program.
 
 **CREATE NODE SCRIPT**
 
+- Create the document that will contain the script, we can name it as we wish, for example, "node sh". For this we write the following command:
+<nano node.sh>
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NanoNode.png?raw=true">
+
+- Right-click to paste the script that we should have copied in <STEP 1>
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NanoPaste.png?raw=true">
+
+- Press ¨Ctrl+X¨ to save the file:
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NanoX.png?raw=true">
+
+- Press ¨Y¨ to confirm:
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NanoConfirm.png?raw=true">
+
+  
+
+
 
 
 
