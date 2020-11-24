@@ -77,6 +77,42 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Pin.png?raw=true"  width="700"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeMenu.png?raw=true">
 
+**b)** From this menu, pressing ¨Generate¨ will show the script that we will have to run 24/7 on our local, VPS, or dedicated server, copy the script to your clipboard.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Generate.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CopyButton.png?raw=true">
+
+
+## RUNNING THE SCRIPT ON A DEDICATED SERVER OR VPS
+
+**c)** The next step is to paste the script generated in the wallet in our Linux VPS/Dedicated Server already preconfigured. There are different ways to do this, also depending on what operating system you use.
+
+# [METHOD 1] FROM WINDOWS 10 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Windowslogo.png?raw=true"> USING A GRAPHICAL ENVIRONMENT – WinSCP + PuTTY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # WORK IN PROGRESS
 
