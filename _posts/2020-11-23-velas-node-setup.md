@@ -124,6 +124,19 @@ You can close WinSCP, we are done with this program.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/WINSCPCLOSE.png?raw=true" width="800">
 
+**CONNECT WITH YOUR VPS OR DEDICATED SERVER USING PUTTY**
+
+- Open PuTTY and connect with your VPS/Dedicated server, you will need the IP, the SSH port (22), your username and your login password for your VPS or dedicated server, click ¨Open¨ and enter your username and password to log in via SSH.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPSCONNECT.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPSLOGIN.png?raw=true">
+
+
+
+
+
+
+
+
 
 
 
