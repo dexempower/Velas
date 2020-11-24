@@ -208,7 +208,15 @@ You can close WinSCP, we are done with this program.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NOHUP.png?raw=true">
 
-  
+- Using ¨htop¨  you should be able to see the script running in the background, you can identify it as ¨Velasblockchain¨ <htop>
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/HTOP.png?raw=true">
+
+- **The system clock must be synced**
+- **Port 30304 should be visible from the outside**
+- **Our node must be completely synchronized with the blockchain**
+
+
 
 
 
