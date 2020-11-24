@@ -154,6 +154,42 @@ You can close WinSCP, we are done with this program.
 - **Port 30304 should be visible from the outside**
 - **Our node must be completely synchronized with the blockchain**
 
+### [METHOD 2] FROM <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/LINUX.png?raw=true" width="20"> LINUX / OSX <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/OSX.png?raw=true" width="20"> USING COMMAND LINE
+
+**CHECK YOUR VPS/DEDICATED SERVER PUBLIC IP**
+
+- From your VPS/Dedicated server control panel, check your public IP to login in your machine, in my case is 185.247.119.44, also look at your username, and your password, you will need it next.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPS3.png?raw=true">
+
+**LOG IN VPS/DEDICATED SERVER**
+
+- Open a terminal window and log in to your VPS / Dedicated Server using ¨ssh¨ command and your server IP, user & password.
+<ssh user@IP> In this example: <ssh root@185.247.119.44>
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/SSHROOT.png?raw=true">
+
+- If it asks you if you want to establish a connection, type ¨Yes¨ and press enter, then you will have to write your password to access your server and press enter again.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/SSHYES.png?raw=true">
+
+- You will see the command line of your server:
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/SShloged.png?raw=true">
+
+**CREATE NODE SCRIPT**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
