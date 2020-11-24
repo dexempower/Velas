@@ -94,6 +94,13 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPS1.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPS2.png?raw=true">
 
+**CONNECT USING WINSCP AND CREATE THE SCRIPT FILE**
+
+- Connect with your VPS/Dedicated server using WinSCP <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/WINSCP.png?raw=true" width="80">
+- Website https://winscp.net/
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/WINSCPSETUP.png?raw=true">
+
 
 
 
