@@ -112,6 +112,15 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/LocalRemote.png?raw=true">
 
+- Access your Velas wallet/account containing 1M VLX or more, copy the script as we show you in <STEP 1> if you haven't done it yet right click on the right side of  WinSCP, and create a new file as shown in the image.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Newfile.png?raw=true">
+
+- Name it, for example, ¨node.sh¨ and click ¨OK¨, using ¨¨Ctrl+V¨ paste the script and save this file using the icon indicated with the red arrow.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Newok.png?raw=true">&nbsp; <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Newctrlv.png?raw=true" width="800">
+
+
 
 
 
