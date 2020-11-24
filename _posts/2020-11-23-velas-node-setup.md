@@ -120,6 +120,11 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Newok.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Newctrlv.png?raw=true" width="800">
 
+You can close WinSCP, we are done with this program.
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/WINSCPCLOSE.png?raw=true" width="800">
+
+
 
 
 
