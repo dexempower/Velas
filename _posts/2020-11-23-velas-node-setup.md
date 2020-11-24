@@ -79,7 +79,7 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 **b)** From this menu, pressing ¨Generate¨ will show the script that we will have to run 24/7 on our local, VPS, or dedicated server, copy the script to your clipboard.
 
-<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Generate.png?raw=true"  width="700"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CopyButton.png?raw=true"  width="700">
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Generate.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CopyButton.png?raw=true">
 
 
 
