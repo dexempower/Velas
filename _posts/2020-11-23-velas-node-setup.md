@@ -103,7 +103,8 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 >File protocol: SFTP
 >
 >Host name: Your VPS/Dedicated server IP
-Port number: 22
+>
+>Port number: 22
 >
 >User name: Your VPS/Dedicated server username
 >
