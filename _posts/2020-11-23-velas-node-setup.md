@@ -11,9 +11,10 @@ categories: guides velas-node
 ## DESKTOP & WEB GUIDE :computer:
 
 # GUIDE TO NODE SETUP
-
+***
 ### **TABLE OF CONTENTS**
 
+**INTRODUCTION** 
 
 **PREREQUISITES** 
 
@@ -42,6 +43,7 @@ _CREATE NODE SCRIPT_
 _ASSIGN PERMISSIONS AND RUN THE SCRIPT_ 
 
 **STEP 3. VELAS WALLET – APPLYING TO BE CANDIDATE**
+***
   
 ### INTRODUCTION
 - This manual contains a step-by-step guide for Velas node setup.
