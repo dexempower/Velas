@@ -196,7 +196,27 @@ You can close WinSCP, we are done with this program.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NanoConfirm.png?raw=true">
 
-  
+**ASSIGN PERMISSIONS AND RUN THE SCRIPT**
+
+- Assign execution permissions to the file using the command ¨chmod + x¨
+<chmod +x node.sh>
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CHMOD.png?raw=true">
+
+- Execute the script using ¨nohup¨ or ¨screen¨  to prevent it from stopping when you log out:
+<nohup ./node.sh &>	
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NOHUP.png?raw=true">
+
+- Using ¨htop¨  you should be able to see the script running in the background, you can identify it as ¨Velasblockchain¨ <htop>
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/HTOP.png?raw=true">
+
+- **The system clock must be synced**
+- **Port 30304 should be visible from the outside**
+- **Our node must be completely synchronized with the blockchain**
+
+
 
 
 
