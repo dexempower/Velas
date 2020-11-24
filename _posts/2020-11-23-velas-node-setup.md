@@ -130,6 +130,32 @@ You can close WinSCP, we are done with this program.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPSCONNECT.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/VPSLOGIN.png?raw=true">
 
+**ASSIGN PERMISSIONS AND RUN THE SCRIPT**
+
+- After login,  move to the directory where you have created the file ¨node.sh¨ using ¨cd¨ command, in the example, we have the file in the root directory¨/¨, you can check this using ¨ls¨ and you should be able to see the file:
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/LS.png?raw=true">
+
+- Assign execution permissions to the file using the command ¨chmod + x¨
+<chmod +x node.sh>
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CHMOD.png?raw=true">
+
+- Execute the script using ¨nohup¨ or ¨screen¨  to prevent it from stopping when you log out:
+<nohup ./node.sh &>	
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NOHUP.png?raw=true">
+
+- Using ¨htop¨  you should be able to see the script running in the background, you can identify it as ¨Velasblockchain¨ <htop>
+
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/HTOP.png?raw=true">
+
+- **The system clock must be synced**
+- **Port 30304 should be visible from the outside**
+- **Our node must be completely synchronized with the blockchain**
+
+
+
 
 
 
