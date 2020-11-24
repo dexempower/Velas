@@ -5,10 +5,10 @@ date: 2020-11-23 11:00:00 +0800
 categories: guides velas-node
 ---
 
-# ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo1xxxhdpi.png?raw=true)  Welcome to Velas Blockchain User Guides :books:
+# ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo1xxxhdpi.png?raw=true)  Welcome to Velas Blockchain User Guides
 
 ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo%20Lettersxxxhdpi.png?raw=true)
-## DESKTOP & WEB GUIDE :computer:
+## DESKTOP & WEB GUIDE
 
 # GUIDE TO NODE SETUP
 
