@@ -77,6 +77,8 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 - Unlimited traffic
 - 1 Gb Ethernet port
 
+***
+
 ## <STEP 1> VELAS WALLET - GENERATING AND COPYING THE SCRIPT
 - Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
 
@@ -86,6 +88,7 @@ _ASSIGN PERMISSIONS AND RUN THE SCRIPT_
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/Generate.png?raw=true"> <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/CopyButton.png?raw=true">
 
+***
 
 ## <STEP 2> RUNNING THE SCRIPT ON A DEDICATED SERVER OR VPS
 
@@ -220,6 +223,8 @@ You can close WinSCP, we are done with this program.
 - **The system clock must be synced**
 - **Port 30304 should be visible from the outside**
 - **Our node must be completely synchronized with the blockchain**
+
+***
 
 ## <STEP 3> VELAS WALLET – APPLYING TO BE CANDIDATE
 
