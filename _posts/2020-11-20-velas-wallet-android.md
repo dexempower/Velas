@@ -7,7 +7,7 @@ categories: guides android-wallet
 
 # ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLetters1.png?raw=true)
 
-  Welcome to Velas Blockchain User Guides
+# Welcome to Velas Blockchain User Guides
   
 ```
 ```
@@ -18,7 +18,7 @@ categories: guides android-wallet
 [![Velas Wallet - Android Setup](http://i3.ytimg.com/vi/A8w5U3aUiKo/maxresdefault.jpg 
 )](https://www.youtube.com/watch?v=A8w5U3aUiKo&t=1s "Velas Wallet - Android Setup")
 
-# GUIDE TO CREATE AND SETUP ANDROID WALLET
+## GUIDE TO CREATE AND SETUP ANDROID WALLET
 
 **Install Velas Wallet**
  - Open ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Playxxxhdpi.png?raw=true)PlayStore application and download [Velas Wallet](https://play.google.com/store/apps/details?id=com.velas.mobile_wallet), open the application to continue with the process.
