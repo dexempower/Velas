@@ -5,7 +5,10 @@ date: 2020-11-20 11:00:00 +0800
 categories: guides android-wallet
 ---
 
-# ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLetters1.png?raw=true)  Welcome to Velas Blockchain User Guides
+# ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/LogoLetters1.png?raw=true)
+
+  Welcome to Velas Blockchain User Guides
+  
 ```
 ```
 ## ANDROID WALLET FAST SETUP ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Androidxxxhdpi.png?raw=true)
