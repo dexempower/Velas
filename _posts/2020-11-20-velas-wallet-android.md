@@ -15,7 +15,7 @@ categories: guides android-wallet
 ### Velas Wallet Android Setup Video-tutorial 
 - If you want to see the video tutorial, tap on the following image that will take you directly to the video.
  
-[![Velas Wallet - Android Setup](![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/BackgroundAndroid.png?raw=true) "Velas Wallet - Android Setup")
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/BackgroundAndroid.jpg" width="800">
 
 ## GUIDE TO CREATE AND SETUP ANDROID WALLET
 
