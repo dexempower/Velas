@@ -6,7 +6,7 @@ categories: guides android-wallet
 ---
 
 # ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Logo2xxxhdpi.png?raw=true)Welcome to Velas Blockchain User Guides
-  
+![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Banner-01.png?raw=true)
 ```
 ```
 ## ANDROID WALLET FAST SETUP ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Androidxxxhdpi.png?raw=true)
