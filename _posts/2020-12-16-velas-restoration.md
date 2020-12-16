@@ -5,7 +5,7 @@ date: 2020-12-16 10:00:00 +0800
 categories: guides velas-wallet
 ---
 
-# WEB & DESKTIOP WALLET RESTORATION GUIDE
+# WEB & DESKTOP WALLET RESTORATION GUIDE
 
 ```
 ```
