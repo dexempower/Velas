@@ -4,7 +4,6 @@ title: "Velas Wallet Android Setup"
 date: 2020-11-20 11:00:00 +0800
 categories: guides android-wallet
 ---
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Banner-01.png?raw=true)
 
 # Welcome to Velas Blockchain User Guides
 
@@ -88,6 +87,4 @@ categories: guides android-wallet
 **Start Using Velas Wallet!**
 
 ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Wallet%20MAin%202.jpg?raw=true)
-
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Banner-01.png?raw=true)
 
