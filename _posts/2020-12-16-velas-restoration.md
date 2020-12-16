@@ -5,88 +5,37 @@ date: 2020-12-16 10:00:00 +0800
 categories: guides velas-wallet
 ---
 
-# ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Logo2xxxhdpi.png?raw=true)Welcome to Velas Blockchain User Guides
+# WEB & DESKTOP WALLET RESTORATION GUIDE
 
 ```
 ```
-## ANDROID WALLET SETUP ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Androidxxxhdpi.png?raw=true)
-### Velas Wallet Android Setup Video-tutorial 
-<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/BackgroundAndroid-01.png?raw=true" width="800">
+## INTRODUCTION
 
-- If you want to see the video tutorial, tap on the following [link](https://www.youtube.com/watch?v=A8w5U3aUiKo&t=1s) that will take you directly to the video.
+*Before starting the recovery process, you should keep these points in mind*
+
+- Velas' support team will NEVER ask your seed words.
+
+- The restoration process allows you to access the funds using our seed words.
+
+- Every time you restore your Velas Wallet we can set up a different PIN/Password to protect the device locally.
+
+- You are the only one who knows your seed words, if you have lost them nobody can provide it.
+
+- Try to keep your device protected, by providing antivirus and run analysis periodically to keep it safe and secure on your computer.
 
 
 
-## GUIDE TO CREATE AND SETUP ANDROID WALLET
+## RESTORING ACCOUNT
 
-**Install Velas Wallet**
- - Open ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Playxxxhdpi.png?raw=true)PlayStore application and download [Velas Wallet](https://play.google.com/store/apps/details?id=com.velas.mobile_wallet), open the application to continue with the process.
+**Open Web Wallet/Desktop App**
+ - Access web wallet (https://wallet.velas.com) or open desktop wallet app, and choose to restore the account.
+ ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Restore.png?raw=true)
  
-**Setup Your Password**
-  - Choose a strong but easy to remember password, do not share it with anyone,then press next to continue with the process.
+**Choose Your Seed Format**
+  - Choose 12 or 24 words based on your word seed backup.
+ ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Format.png?raw=true)
   
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/SETUP%20PASSWORD.jpg?raw=true)
-  
-
-
-## RESTORE OR CREATE A NEW WALLET 
-### SETTING UP A NEW WALLET
-**Create a new Velas Wallet**
- - Choose create from menu.
+**Setup Your PIN/Password**
+ - Enter the PIN/Password you want, and hit the Setup button to continue.
+ ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Password.png?raw=true)
  
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/CREATE%20OR%20RESTORE.jpg?raw=true)
-**Read terms of service**
-  - Accept the terms of service after reading and tap continue.
-  
-  
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Terminos.jpg?raw=true)
-**Backup Your Seed**
--  Create a backup of your seed phrase before starting to use the application, 
-- You will see a message at the bottom to indicate that you have not done it yet.
-
-
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/BACKUP%20SEED.jpg?raw=true)
- 
-**Follow the steps**
- -  Write down your 24 recovery words, make multiple copies and never share it with anyone,
- 
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/SEED.jpg?raw=true)
- -  If you want to use a simple template that we provide tap next and then tap print.
- 
- ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Print.jpg?raw=true)
-  -  If you are ready to continue, press next.
- 
- 
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Next.jpg?raw=true)
-  
-**Confirm Your Seed Phrase**
-
-  - You will have to enter your seed word-by-word following the order to confirm that you have your seed correctly written.
- 
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/CONFIRM%20SEED.jpg?raw=true)
-  
-**Start Using Velas Wallet!**
-
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/WALLET%20MAIN%20MENU.jpg?raw=true)
-
-### RESTORING YOUR WALLET
-
-**Restore Your Velas Wallet**
- - Choose restore from menu.
- 
- ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Restore.jpg?raw=true)
-
-**Choose 12 or 24 words**
- - Choose whether you want to restore 12 or 24 seed word wallet.
- 
- ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/12%20OR%2024.jpg?raw=true)
-
-**Introduce Your Seed Phrase**
-  - You will have to enter your seed word-by-word in order.
-  
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/restoreWORDS.jpg?raw=true)
-
-**Start Using Velas Wallet!**
-
-![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Wallet%20MAin%202.jpg?raw=true)
-
