@@ -29,13 +29,33 @@ categories: guides velas-wallet
 
 **Open Web Wallet/Desktop App**
  - Access web wallet (https://wallet.velas.com) or open desktop wallet app, and choose to restore the account.
+ 
  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Restore.png?raw=true)
  
 **Choose Your Seed Format**
   - Choose 12 or 24 words based on your word seed backup.
+  
  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Format.png?raw=true)
   
 **Setup Your PIN/Password**
  - Enter the PIN/Password you want, and hit the Setup button to continue.
+ 
  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Password.png?raw=true)
+ 
+ **Enter Your Seed**
+ 
+ - Enter your seed word by word, **don ́t rush it and double-check your 
+ inputs to ensure that the order of the words and the spelling is accurate and 
+ correct.** For security reasons, you will be asked to enter the words randomly, it 
+ always marks by a number to indicating which words are the ones you have to enter.
+ 
+ ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Seed.png?raw=true)
+ 
+  **If you entered all the words in the correct order and spelled correctly, you
+will see: your usual addresses, your transaction history, and your balance.d**
+
+ ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Walletok.png?raw=true)
+ 
+
+ 
  
