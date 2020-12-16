@@ -37,5 +37,5 @@ categories: guides velas-wallet
   
 **Setup Your PIN/Password**
  - Enter the PIN/Password you want, and hit the Setup button to continue.
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Password.png?raw=true)
+ ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Password.png?raw=true)
  
