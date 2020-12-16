@@ -5,7 +5,7 @@ date: 2020-12-16 10:00:00 +0800
 categories: guides velas-wallet
 ---
 
-# WEB & DESKTOP WALLET RESTORATION GUIDE
+# ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Logo2xxxhdpi.png?raw=true)&nbsp; WEB & DESKTOP WALLET RESTORATION GUIDE
 
 ```
 ```
