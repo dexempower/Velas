@@ -23,7 +23,7 @@ categories: guides android-wallet
 **Setup Your Password**
   - Choose a strong but easy to remember password, do not share it with anyone,then press next to continue with the process.
   
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/SETUP%20PASSWORD.jpg?raw=true)
+  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/SETUP%20PASSWORD-01.png?raw=true)
   
 
 
