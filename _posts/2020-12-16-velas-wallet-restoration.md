@@ -34,7 +34,7 @@ categories: guides velas-wallet
  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Restore.png?raw=true)
  
 **Choose Your Seed Format**
-  - Choose 12 or 24 words based on your word seed backup.
+  - Choose 12, 24 or custom words based on your word seed backup.
   
  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Format.png?raw=true)
   
