@@ -9,11 +9,13 @@ categories: guides android-wallet
 
 ```
 ```
-## ANDROID WALLET FAST SETUP ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Androidxxxhdpi.png?raw=true)
+## ANDROID WALLET SETUP ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/Androidxxxhdpi.png?raw=true)
 ### Velas Wallet Android Setup Video-tutorial 
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/BackgroundAndroid-01.png?raw=true" width="800">
+
 - If you want to see the video tutorial, tap on the following [link](https://www.youtube.com/watch?v=A8w5U3aUiKo&t=1s) that will take you directly to the video.
 
-<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/BackgroundAndroid-01.png?raw=true" width="800">
+
 
 ## GUIDE TO CREATE AND SETUP ANDROID WALLET
 
@@ -23,7 +25,7 @@ categories: guides android-wallet
 **Setup Your Password**
   - Choose a strong but easy to remember password, do not share it with anyone,then press next to continue with the process.
   
-  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/SETUP%20PASSWORD-01.png?raw=true)
+  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/android/SETUP%20PASSWORD.jpg?raw=true)
   
 
 
