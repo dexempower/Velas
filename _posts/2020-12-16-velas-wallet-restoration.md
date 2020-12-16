@@ -44,7 +44,7 @@ categories: guides velas-wallet
  
  **Enter Your Seed**
  
- - Enter your seed word by word, **don ́t rush it and double-check your 
+ -  ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/CautionLogo.png?raw=true)Enter your seed word by word, **don ́t rush it and double-check your 
  inputs to ensure that the order of the words and the spelling is accurate and 
  correct.** For security reasons, you will be asked to enter the words randomly, it 
  always marks by a number to indicating which words are the ones you have to enter.
