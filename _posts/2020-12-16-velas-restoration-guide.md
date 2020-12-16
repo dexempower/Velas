@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Velas Wallet Android Setup"
+title: "Velas Wallet Restoration Guide"
 date: 2020-12-16 10:00:00 +0800
 categories: guides velas-wallet
 ---
