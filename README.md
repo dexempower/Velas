@@ -5,6 +5,7 @@
 # Velas Blockchain User Guides ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/UserGuides.png?raw=true)
 
 -   [Velas Wallet Creation](https://dexempower.github.io/dexempower.github.io-velas/guides/velas-wallet/2020/11/20/velas-wallet-creation)
+-   [Velas Wallet Restoration](https://dexempower.github.io/dexempower.github.io-velas/guides/velas-wallet/2020/12/16/velas-wallet-restoration)
 -   [Delegate Staking Guide](https://dexempower.github.io/dexempower.github.io-velas/guides/delegate-staking/2020/11/20/velas-staking-guide)
 -   [Velas Wallet Android Setup](https://dexempower.github.io/dexempower.github.io-velas/guides/android-wallet/2020/11/20/velas-wallet-android)
 -   [Velas Node Setup](https://dexempower.github.io/dexempower.github.io-velas/guides/velas-node/2020/11/23/velas-node-setup)
