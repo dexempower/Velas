@@ -6,7 +6,7 @@ categories: guides velas-wallet
 ---
 
 # ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Logo2xxxhdpi.png?raw=true)&nbsp; WEB & DESKTOP WALLET RESTORATION GUIDE
- ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Background.png?raw=true)
+ <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/restoration/Background.png?raw=true" width="800">
 
 ```
 ```
