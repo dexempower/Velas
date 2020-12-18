@@ -5,15 +5,11 @@ date: 2020-11-23 11:00:00 +0800
 categories: guides velas-node
 ---
 
-# ![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo1xxxhdpi.png?raw=true)  Welcome to Velas Blockchain User Guides
+# ![](https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/logos/Logo2xxxhdpi.png?raw=true)&nbsp; Welcome to Velas Blockchain User Guides
 
-![](https://github.com/dexempower/https-dexempower.github.io-velas/blob/main/assets/logos/Logo%20Lettersxxxhdpi.png?raw=true)
-## DESKTOP & WEB GUIDE
+## GUIDE TO NODE SETUP
+<img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeBackground.png?raw=true" width="800">
 
-# GUIDE TO NODE SETUP
-
-***
-  
 ### INTRODUCTION
 - This manual contains a step-by-step guide for Velas node setup.
 - All active nodes are candidates, currently, 19 validators are chosen per epoch, based on the list of candidates.
@@ -190,8 +186,6 @@ You can close WinSCP, we are done with this program.
 - **Port 30304 should be visible from the outside**
 - **Our node must be completely synchronized with the blockchain**
 
-***
-
 ## <STEP 3> VELAS WALLET – APPLYING TO BE CANDIDATE
 
 - Access the wallet (https://wallet.velas.com) using your ¨PIN / Password¨ and scroll to the left menu and select Staking > Node.
@@ -208,5 +202,3 @@ To finish, press ¨Apply¨ and execute the smart contract.
 - If you have followed all the steps after the epoch changes your node will appear as **ACTIVE** in ¨Node¨ menu and you will be able to see your pool in the list.
 
 <img src="https://github.com/dexempower/dexempower.github.io-velas/blob/main/assets/node/NodeActive.png?raw=true">
-
-
